@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left" dir="auto">
 <a href="https://www.github.com/andresilva8624"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/andresilva8624/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>
-<a href="https://www.stackoverflow.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" style="max-width: 100%;"></a>
+<a href="https://www.stackoverflow.com/users/19332349/andre-silva" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" style="max-width: 100%;"></a>
 <a href="https://www.twitter.com/andresilvagold" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="max-width: 100%;"></a>
 </p>
 
