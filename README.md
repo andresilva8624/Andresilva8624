@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @andresilva8624
-- 👀 I’m interested in music, guitars, programming, F1 and dogs
-- 🌱 I’m currently learning coding at UCLA Bootcamp, I'm loving it
+- 👀 I’m interested in programming, music, guitars, F1 and dogs
+- 🌱 I  graduated at UCLA Full Stack Web Development Bootcamp, I loved it
+- 🌱 I'm currently studying Intro to Computer Science at Harvard University
 - 💞️ I’m looking to collaborate on any projects so I can learn and improve my skill
 - 📫 How to reach me? Email: andresilva8624@gmail.com
 
