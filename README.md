@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @andresilva8624
 - 👀 I’m interested in programming, music, guitars, F1 and dogs
+- 👀 Skills: HTML5, Java EE, Node.js, Express.js, Jest,js SOAP/REST/GraphQL APIs, JavaScript Front-end frameworks (ReactJS), Responsive CSS3/SCSS, cross-browser compatibility and Source Control (GIT), MongoDB, jQuery, MySQL, Responsive Design.
 - 🌱 I  graduated at UCLA Full Stack Web Development Bootcamp, I loved it
 - 🌱 I'm currently studying Intro to Computer Science at Harvard University
 - 💞️ I’m looking to collaborate on any projects so I can learn and improve my skill
